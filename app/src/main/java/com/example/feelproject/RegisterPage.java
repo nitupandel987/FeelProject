@@ -107,7 +107,8 @@ public class RegisterPage extends AppCompatActivity {
                             fuser.sendEmailVerification().addOnSuccessListener(new OnSuccessListener<Void>() {
                                 @Override
                                 public void onSuccess(Void unused) {
-                                    Toast.makeText(getApplicationContext(), "Registered Successfull", Toast.LENGTH_LONG);
+                                    Toast.makeText(getApplicationContext(), "Registered Successfully", Toast.LENGTH_LONG).show();
+
                                 }
                             }).addOnFailureListener(new OnFailureListener() {
                                 @Override
