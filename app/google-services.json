@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757242585792",
+    "project_id": "loginpages-dcad1",
+    "storage_bucket": "loginpages-dcad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757242585792:android:381f6386690449894a8325",
+        "android_client_info": {
+          "package_name": "com.example.feelproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqXK656_gdW17SIgTxPjOX9O8MQwumK-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
